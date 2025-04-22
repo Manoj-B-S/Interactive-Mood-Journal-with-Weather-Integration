@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.react-calendar {
+  width: 100% !important;
+  border: none !important;
+  background: transparent !important;
+}
+
+.react-calendar__tile--active {
+  background: #ff9a9e !important;
+  color: white !important;
+}
+
+.react-calendar__tile--now {
+  background: #fad0c4 !important;
+}
+
+.react-calendar__navigation button {
+  color: #4a5568;
+  font-weight: 600;
+}
+
+.react-calendar__month-view__weekdays {
+  color: #4a5568;
+  font-weight: 600;
+}
