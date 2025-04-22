@@ -23,17 +23,15 @@ By linking mood and environmental data, the journal creates a foundation for sel
 
 ## 💻 Tech Stack
 
-- **Frontend**: HTML, CSS, JavaScript
+- **Frontend**: HTML, CSS, JavaScript, React
 - **API**: [OpenWeatherMap API](https://openweathermap.org/)
 - **Tools**: Git, GitHub, VS Code
 
 ---
 
 ## 📸 Preview
+![image](https://github.com/user-attachments/assets/b35a1118-8865-4c95-909d-dcbe11e1d424)
 
-> *(Add screenshots here for better visual understanding)*
-
----
 
 ## 🚀 Getting Started
 
