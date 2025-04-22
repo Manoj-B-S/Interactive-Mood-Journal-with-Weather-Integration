@@ -31,6 +31,8 @@ By linking mood and environmental data, the journal creates a foundation for sel
 
 ## 📸 Preview
 ![image](https://github.com/user-attachments/assets/b35a1118-8865-4c95-909d-dcbe11e1d424)
+![image](https://github.com/user-attachments/assets/8c15be7c-d1e4-4dca-b193-5e2cb2d343bf)
+
 
 
 ## 🚀 Getting Started
